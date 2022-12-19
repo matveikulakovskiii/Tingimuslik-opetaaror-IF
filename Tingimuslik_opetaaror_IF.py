@@ -207,7 +207,7 @@
 #    elif c==(""):
 #        print(a*b)
 #    elif c==("/"):
-#        if b<0:
+#        if b==0:
 #            print("Väiksem kui 0")
 #        else:
 #            print(a/b)
