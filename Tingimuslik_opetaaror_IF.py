@@ -213,3 +213,19 @@
 #            print(a/b)
 #except:
 #    print("Value Error")
+
+
+
+#now = datetime.datetime.now()
+#try:
+#    a=int(input("Sisesta sünniaasta. "))
+#except:
+#    print("Value Error")
+#b=int(now.year)
+#c=int(b-a)
+#print(c)
+#f=c%5
+#if f==0:
+#    print("teil on juubel")
+#else:
+#    print("Kui kaju")
