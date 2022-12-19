@@ -185,4 +185,12 @@
 #except:
 #    print("Vale Andmetüüp")
 
-
+#try:
+#    a=float(input("Utle pool a "))
+#    b=float(input("Utle pool b "))
+#    if a==b:
+#        print("See on ruut")
+#    else:
+#        print("See ei ole ruut")
+#except:
+#    print("Value Error")
