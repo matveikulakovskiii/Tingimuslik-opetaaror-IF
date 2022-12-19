@@ -194,3 +194,22 @@
 #        print("See ei ole ruut")
 #except:
 #    print("Value Error")
+
+
+#try:
+#    a=float(input("1 number "))
+#    b=float(input("1 number "))
+#    c=input("mis märk sa oled +-/ \n ")
+#    if c==("+"):
+#        print(a+b)
+#    elif c==("-"):
+#        print(a-b)
+#    elif c==(""):
+#        print(a*b)
+#    elif c==("/"):
+#        if b<0:
+#            print("Väiksem kui 0")
+#        else:
+#            print(a/b)
+#except:
+#    print("Value Error")
