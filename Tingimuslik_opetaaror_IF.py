@@ -229,3 +229,24 @@
 #    print("teil on juubel")
 #else:
 #    print("Kui kaju")
+
+#try:
+#    a=float(input("sisesta toote hind "))
+#    if a<=10:
+#        print("sul on soodus 10%",a-a0.1)
+#    elif a>10:
+#        print("sul on soodus 20%",a-a0.2)
+#except:
+#    print("Value Error")
+
+
+#try:
+#    a=int(input("Kas sa oled mees?(jah-1 või ei-0)"))
+#    if a==1:
+#        b=int(input("Kui vana sa oled? "))
+#        if b>=16 and b<=18:
+#            print("sa sobid")
+#    else:
+#        print("sa oled naine sest, et sa ei sobi")
+#except:
+#    print("Value Error")
