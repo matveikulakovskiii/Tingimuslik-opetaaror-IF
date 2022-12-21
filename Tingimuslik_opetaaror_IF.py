@@ -220,21 +220,40 @@
 #a=randint(1,20)
 #b=randint(1,20)
 #for i in range(1,a+1 and b+1,1):
-#    print("See on ruut")
+#    print("See on ruud")
 #else:
-#    print("See ei ole ruut")
+#    print("See ei ole ruud")
 
 #while True:
 #    try:
 #        a=float(input("Utle pool a "))
 #        b=float(input("Utle pool b "))
 #        if a==b:
-#            print("See on ruut")
+#            print("See on ruud")
 #            break
 #        else:
-#            print("See ei ole ruut")
+#            print("See ei ole ruud")
 #    except:
 #        print("Value Error")
+
+
+#a=0
+#b=1
+#while  a!=b:
+#    while True:
+#        try:
+#            a=float(input("Utle pool a "))
+#            break
+#        except:
+#            print("Sisesta veel kord")
+#    while True:
+#        try:
+#            b=float(input("Utle pool b "))
+#            break
+#        except:
+#            print("Sisesta veel kord")
+#    if a!=b: print("Andmetüüb on ok, vaid see ei ole ruud!")
+#print(f"See on ruud. Ruud külg võrdub {a}")
 
 
 #try:
