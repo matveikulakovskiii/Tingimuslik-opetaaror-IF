@@ -1,4 +1,4 @@
-﻿
+
 #try:
 #    nimi=str(input("Sisestage oma nimi "))
 
@@ -246,7 +246,9 @@
 
 
 
-#now = datetime.datetime.now()
+#from datetime import *
+
+#now = datetime.now()
 #try:
 #    a=int(input("Sisesta sünniaasta. "))
 #except:
