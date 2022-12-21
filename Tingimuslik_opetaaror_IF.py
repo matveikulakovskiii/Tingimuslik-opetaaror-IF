@@ -87,23 +87,50 @@
 #except:
 #    print("Vale Andmetüüp")
 
-
-
+#from random import *
+#p=k=l=0
 #try:
-#    a=float(input("Mis on su pikkus?(Sentimeetrites): "))
-#    if a<=0:
-#        print("Error")
-#    else:
+#    kogus=randint(1,20)
+#    print("Kokku on", kogus,"inimest" )
+#    for i in range(1,kogus+1,1):
+#        a=randint(55,256)
 #        if a<=165:
-#            print("Teie pikkus on madal")
+#            print(f"{a}, Teie pikkus on madal")
+#            p+=1
 #        elif a>165 and a<180:
-#            print("Teie pikkus on keskmine")
+#            print(f"{a}, Teie pikkus on keskmine")
+#            k+=1
 #        elif a>=180:
-#            print("Teie pikkus on kõrge")
+#            print(f"{a}, Teie pikkus on kõrge")
+#            l+=1
+#    print(f"Pikka kasvu {p} inimest")
+#    print(f"Keskmise kasvu {k} inimest")
+#    print(f"Lühike kasvu {l} inimest")
 #except:
 #    print("Vale Andmetüüp")
 
 
+
+#from random import *
+#p=k=l=0
+
+#kogus=randint(1,20)
+#print("Kokku on", kogus,"inimest" )
+#while kogus>0:
+#    kogus-=1
+#    a=randint(55,256)
+#    if a<=165:
+#        print(f"{a}, Teie pikkus on madal")
+#        p+=1
+#    elif a>165 and a<180:
+#        print(f"{a}, Teie pikkus on keskmine")
+#        k+=1
+#    elif a>=180:
+#        print(f"{a}, Teie pikkus on kõrge")
+#        l+=1
+#    print(f"Pikka kasvu {p} inimest")
+#    print(f"Keskmise kasvu {k} inimest")
+#    print(f"Lühike kasvu {l} inimest")
 
 
 #try:
