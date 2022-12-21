@@ -215,15 +215,26 @@
 #except:
 #    print("Vale Andmetüüp")
 
-#try:
-#    a=float(input("Utle pool a "))
-#    b=float(input("Utle pool b "))
-#    if a==b:
-#        print("See on ruut")
-#    else:
-#        print("See ei ole ruut")
-#except:
-#    print("Value Error")
+#from random import *
+
+#a=randint(1,20)
+#b=randint(1,20)
+#for i in range(1,a+1 and b+1,1):
+#    print("See on ruut")
+#else:
+#    print("See ei ole ruut")
+
+#while True:
+#    try:
+#        a=float(input("Utle pool a "))
+#        b=float(input("Utle pool b "))
+#        if a==b:
+#            print("See on ruut")
+#            break
+#        else:
+#            print("See ei ole ruut")
+#    except:
+#        print("Value Error")
 
 
 #try:
