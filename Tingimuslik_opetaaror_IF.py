@@ -75,12 +75,15 @@
 
 
 
+
 #try:
-#    a=float(input("Mis on teie toatemperatuur: "))
-#    if a>=18:
-#        print("Teie toatemperatuur on keskmisest kõrgem, 18 kraadi Celsiuse järgi.")
-#    else:
-#        print("Teie toatemperatuur on keskmisest madalam, 18 kraadi Celsiuse järgi.")
+#    n=int(input("Mitu toa korteris?: "))
+#    for i in range(1,n+1,1):
+#        t=float(input(f"{i}, toa temperatuur: "))
+#        if t>18:
+#            print("Teie toatemperatuur on keskmisest kõrgem, 18 kraadi Celsiuse järgi.4")
+#        else:
+#            print("Teie toatemperatuur on keskmisest madalam, 18 kraadi Celsiuse järgi.")
 #except:
 #    print("Vale Andmetüüp")
 
